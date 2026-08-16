@@ -5,3 +5,5 @@ Repositorio para las actividades realizadas durante la materia de Algoritmos de 
 ## Actividades
 
 - [Actividad 1 - Preparación de datos](./Actividad_1)
+
+by NotDeWey
